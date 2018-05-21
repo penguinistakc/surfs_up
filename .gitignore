@@ -156,5 +156,6 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+
 #macos
-.DS_Store/
+.DS_Store
